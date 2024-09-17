@@ -8,5 +8,6 @@ for line in range(3):
   painter.forward(100)
   painter.right(120)
 
+
 wn = trtl.Screen()
 wn.mainloop()
